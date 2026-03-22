@@ -29,6 +29,10 @@
 - `styles.css` - Стили калькулятора
 - `script.js` - Логика калькулятора
 
+## Демонстрация работы
+
+![demo](https://github.com/RaptoRabbit/PetProect/blob/main/firefox_zR3b0AAaML.gif)
+
 ## Лицензия
 
 Этот проект является пет проектом.
